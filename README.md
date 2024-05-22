@@ -24,5 +24,6 @@ Welcome to iZodiac Sign, an intuitive and engaging app designed to guess your zo
 Whether you're a seasoned astrology enthusiast or just looking for some fun, iZodiac Sign offers an engaging way to explore the world of zodiac signs. With its easy-to-use interface and beautiful design, it’s an app that provides entertainment and insight for users of all ages.
 
 Download iZodiac Sign today and embark on your journey into the stars!
+![Download APK](https://drive.google.com/file/d/1ANhGF7bw8NsXrg7zHTwDNZYMOiFgELJJ/view?usp=drive_link)
 
 

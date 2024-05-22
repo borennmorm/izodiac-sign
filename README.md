@@ -5,12 +5,12 @@ Welcome to iZodiac Sign, an intuitive and engaging app designed to guess your zo
 ## Features
 
 - **Name-Based Zodiac Guessing**: Enter your name, and our sophisticated algorithm will guess your zodiac sign. Perfect for quick and fun interactions.
-- **Beautiful UI**: Enjoy a sleek and user-friendly interface, with a stunning starry background to enhance your zodiac experience.
+- **Simple UI**: Enjoy a sleek and user-friendly interface, with a stunning starry background to enhance your zodiac experience.
 - **Personalized Results**: Get insights and descriptions tailored to your zodiac sign, adding a personal touch to your astrological journey.
 
-## ScreenShot
+## Screenshot
 
-![iZodiac Sign Demo](https://i.postimg.cc/yWQVVWHj/i-Zodiac-Demo.png)
+<img src="https://i.postimg.cc/yWQVVWHj/i-Zodiac-Demo.png" alt="iZodiac Sign Demo" width="600">
 
 ## Getting Started
 
@@ -24,6 +24,7 @@ Welcome to iZodiac Sign, an intuitive and engaging app designed to guess your zo
 Whether you're a seasoned astrology enthusiast or just looking for some fun, iZodiac Sign offers an engaging way to explore the world of zodiac signs. With its easy-to-use interface and beautiful design, it’s an app that provides entertainment and insight for users of all ages.
 
 Download iZodiac Sign today and embark on your journey into the stars!
-![Download APK](https://drive.google.com/file/d/1ANhGF7bw8NsXrg7zHTwDNZYMOiFgELJJ/view?usp=drive_link)
 
-
+<a href="https://drive.google.com/file/d/1ANhGF7bw8NsXrg7zHTwDNZYMOiFgELJJ/view?usp=drive_link" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Download%20APK-Click%20Here-brightgreen?style=for-the-badge" alt="Download APK">
+</a>

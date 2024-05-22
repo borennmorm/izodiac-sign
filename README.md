@@ -10,7 +10,7 @@ Welcome to iZodiac Sign, an intuitive and engaging app designed to guess your zo
 
 ## Screenshot
 
-<img src="https://i.postimg.cc/yWQVVWHj/i-Zodiac-Demo.png" alt="iZodiac Sign Demo" width="600">
+<img src="https://drive.google.com/file/d/1uWNIimvIGGmIyOr-OjrP13n-SpEk-48V/view?usp=sharing" alt="iZodiac Sign Demo" width="600">
 
 ## Getting Started
 

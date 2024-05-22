@@ -8,7 +8,7 @@ Welcome to iZodiac Sign, an intuitive and engaging app designed to guess your zo
 - **Beautiful UI**: Enjoy a sleek and user-friendly interface, with a stunning starry background to enhance your zodiac experience.
 - **Personalized Results**: Get insights and descriptions tailored to your zodiac sign, adding a personal touch to your astrological journey.
 
-## Demo
+## ScreenShot
 
 ![iZodiac Sign Demo](https://i.postimg.cc/yWQVVWHj/i-Zodiac-Demo.png)
 
